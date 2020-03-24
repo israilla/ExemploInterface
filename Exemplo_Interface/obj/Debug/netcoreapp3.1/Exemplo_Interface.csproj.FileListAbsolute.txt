@@ -1,0 +1,11 @@
+C:\Users\Israilla\source\repos\Exemplo_Interface\Exemplo_Interface\bin\Debug\netcoreapp3.1\Exemplo_Interface.exe
+C:\Users\Israilla\source\repos\Exemplo_Interface\Exemplo_Interface\bin\Debug\netcoreapp3.1\Exemplo_Interface.deps.json
+C:\Users\Israilla\source\repos\Exemplo_Interface\Exemplo_Interface\bin\Debug\netcoreapp3.1\Exemplo_Interface.runtimeconfig.json
+C:\Users\Israilla\source\repos\Exemplo_Interface\Exemplo_Interface\bin\Debug\netcoreapp3.1\Exemplo_Interface.runtimeconfig.dev.json
+C:\Users\Israilla\source\repos\Exemplo_Interface\Exemplo_Interface\bin\Debug\netcoreapp3.1\Exemplo_Interface.dll
+C:\Users\Israilla\source\repos\Exemplo_Interface\Exemplo_Interface\bin\Debug\netcoreapp3.1\Exemplo_Interface.pdb
+C:\Users\Israilla\source\repos\Exemplo_Interface\Exemplo_Interface\obj\Debug\netcoreapp3.1\Exemplo_Interface.csprojAssemblyReference.cache
+C:\Users\Israilla\source\repos\Exemplo_Interface\Exemplo_Interface\obj\Debug\netcoreapp3.1\Exemplo_Interface.AssemblyInfoInputs.cache
+C:\Users\Israilla\source\repos\Exemplo_Interface\Exemplo_Interface\obj\Debug\netcoreapp3.1\Exemplo_Interface.AssemblyInfo.cs
+C:\Users\Israilla\source\repos\Exemplo_Interface\Exemplo_Interface\obj\Debug\netcoreapp3.1\Exemplo_Interface.dll
+C:\Users\Israilla\source\repos\Exemplo_Interface\Exemplo_Interface\obj\Debug\netcoreapp3.1\Exemplo_Interface.pdb
